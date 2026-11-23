@@ -459,9 +459,9 @@ By combining intelligent routing, reusable context, optional persistent storage,
 
 ## Author
 
-**Akash Kumar**
+**Nidhi Nagar**
 
-GitHub: https://github.com/kumarakshu
+GitHub: https://github.com/nidhin-pixel/adaptive-orchestrator
 
 ---
 
